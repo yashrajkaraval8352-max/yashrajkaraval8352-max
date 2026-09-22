@@ -15,7 +15,7 @@
 
 <br><br>
 
-<a href="https://yashraj-karaval.netlify.app/">
+<a href="https://unique-ganache-95d96a.netlify.app">
 <img src="https://img.shields.io/badge/%F0%9F%8C%90%20PORTFOLIO-312E81?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF"/>
 </a>
 

@@ -28,20 +28,61 @@
 
 ---
 
-<!-- ===================== ABOUT ===================== -->
 
-## ✦ About Me
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  👋 Hi, I'm Yashraj                                         │
-│                                                              │
-│  🎓 B.Sc. Computer Science Graduate                         │
-│  ☕ Java Full Stack Developer                                │
-│  🌱 Spring Boot & Backend Development                        │
-│  🤖 AI/ML & Generative AI Enthusiast                        │
-│  🧠 Exploring LLMs, RAG, Embeddings & Vector Search          │
-│  🚀 Passionate about building useful applications            │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+
+```markdown
+<!-- ===================== ABOUT ME ===================== -->
+
+<h2 align="center">✦ About Me</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="60%">
+
+### 👋 Hey, I'm Yashraj!
+
+I'm a **B.Sc. Computer Science Graduate** passionate about building modern software applications and exploring emerging technologies.
+
+I enjoy working with **Java, Spring Boot, databases, and backend development**, while also exploring the world of **AI, Machine Learning and Generative AI**.
+
+<br>
+
+🔭 **Currently building:** Java & AI projects  
+🌱 **Currently learning:** Spring Boot & GenAI  
+💡 **Interested in:** Backend • AI/ML • GenAI  
+🎯 **Goal:** Build scalable real-world applications  
+⚡ **Mindset:** Learn → Build → Improve
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,python,mysql,git,github" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Java%20Developer-0F172A?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/AI%2FML%20Enthusiast-0F172A?style=for-the-badge&logo=python&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/GenAI%20Explorer-0F172A?style=for-the-badge&logo=google&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🧩 My Current Focus
+
+`☕ Java` &nbsp; `🌱 Spring Boot` &nbsp; `🗄️ SQL` &nbsp; `🧠 DSA`  
+`🤖 AI/ML` &nbsp; `✨ GenAI` &nbsp; `🔎 RAG` &nbsp; `☁️ Cloud`
+
+</div>
